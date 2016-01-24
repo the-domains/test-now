@@ -2,6 +2,7 @@ name: Test Now
 favicon: null
 layout_spectrum: 0.99186
 typography_spectrum: 0.57582
+title: Test Now
 cta:
   domain: null
   bucket: null
