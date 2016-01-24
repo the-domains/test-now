@@ -1,7 +1,7 @@
 name: Test Now
 favicon: null
-layout_spectrum: 0.4186917096376419
-typography_spectrum: 0.7262322998140007
+layout_spectrum: 0.99186
+typography_spectrum: 0.57582
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
-  brandStrength: 0.4591686532367021
+    - '#effafe'
+    - '#000000'
+    - '#b93019'
+    - '#e1b979'
+    - '#497644'
+  brandStrength: 0.5
   lightness: 0.5698636737652123
-  saturation: 0.08362837764434516
-  rhythmicContrast: 0.11361389793455601
+  saturation: 0.3125
+  rhythmicContrast: 0.25
 purpose: []
